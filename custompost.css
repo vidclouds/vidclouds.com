@@ -1,3 +1,7 @@
+/* Post Views Count
+----------------------------------------------- */
+.post-view{background:#3d85c6;display:inline-block;float:right;padding:4px 8px;font-size:12px;color:#fff;text-align:center;line-height:17px;border-radius:2px;box-shadow: 0 2px 2px 0 rgba(0,0,0,.05), 0 1px 5px 0 rgba(0,0,0,.05), 0 2px 1px -2px rgba(0,0,0,.2)}
+.post-view>i{padding-right:5px;font-size:98%}
 /* CSS download box
 --------------------------------------------------------- */
 #btnx{cursor:pointer;padding:10px 20px;border:0;border-radius:3px;background:#fff;color:#e67e22;float:right;text-transform:capitalize;font-weight:500;transition:all 0.5s}#btnx:hover,#downloadx:hover{background:#333;color:#fff;outline:none}.batas-downx{display:block;margin:0 auto;border-radius:4px}.dalam-downx{background:transparent;margin-bottom:-40px;color:#fff;padding:15px;display:block;border-top-right-radius:3px;border-top-left-radius:3px}.file-info{color:#fff;display:inline-block;font-size:1.2em;line-height:38px;text-align:left}.catatan-downx{padding:10px;background:transparent;border-bottom-right-radius:3px;border-bottom-left-radius:3px;color:#f7f7f7;font-size:14px}#downloadx{float:right}#downloadx{padding:10px 20px;border-radius:3px;background:#fff;color:#222;float:right;text-align:center;font-size:14px;text-transform:capitalize}.bungkus-info span{display:inline-block;line-height:38px;float:right}.file-deskripsi{display:block}.file-deskripsi span{margin-right:3px}
