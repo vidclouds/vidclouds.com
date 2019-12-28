@@ -119,14 +119,14 @@
     right:16px
 }
 .wpmoly.headbox.movie.menu.hint{
-    color:rgba(255,255,255,.5);
-    font-size:.75rem;
-    height:1.75em;
-    min-width:12em;
-    position:absolute;
-    right:0;
-    text-align:right;
-    top:-2.75em
+    color: #e7e8ec;
+    font-size: 15px;
+    /* height: 121px; */
+    min-width: 12em;
+    position: absolute;
+    right: -24px;
+    /* text-align: right; */
+    top: 0.25em;
 }
 .wpmoly.headbox.movie.menu a{
     margin:0 2px;
@@ -134,20 +134,6 @@
 }
 .wpmoly.headbox.movie.menu a,.wpmoly.headbox.movie.menu a:hover,.wpmoly.headbox.movie.menu a:focus{
     text-decoration:none !important
-}
-.wpmoly.headbox.movie.menu a.active{
-    color:#fff;
-    text-shadow:0 0 4px rgba(255,255,255,.5)
-}
-.wpmoly.headbox.movie.menu a.active:after{
-    border:8px solid transparent;
-    border-bottom-color:#fff;
-    bottom:-10px;
-    content:" ";
-    height:0;
-    left:4px;
-    position:absolute;
-    width:0
 }
 .wpmoly.headbox.movie.content{
     border: 1.5px solid rgba(0, 0, 0, 0.09);
