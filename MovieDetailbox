@@ -1,0 +1,102 @@
+.hb-movies-movie-box{
+    background-color:#fff;
+    border:1px solid #ececec;
+    -webkit-box-shadow:0 1px 4px rgba(0,0,0,.3),0 0 40px rgba(0,0,0,.1) inset;
+    -moz-box-shadow:0 1px 4px rgba(0,0,0,.3),0 0 40px rgba(0,0,0,.1) inset;
+    box-shadow:0 1px 4px rgba(0,0,0,.3),0 0 40px rgba(0,0,0,.1) inset;
+    color:#444;
+    padding:1em
+}
+.hb-movies-movie-box-img{
+    min-width:185px;
+    text-align:center
+}
+.hb-movies-movie-box-img>.img-poster{
+    max-width:185px;
+    min-width:185px
+}
+.hb-movies-movie-box-img .img-poster{
+    border-radius:7px;
+    box-shadow:0 1px 1px #333;
+    width:100%
+}
+.hb-movies-movie-box-info{
+    margin-left:1em
+}
+.hb-movies-movie-box-imdb{
+    display:block;
+    min-width:185px;
+    text-align:center;
+    padding:inherit
+}
+.hb-movies-movie-box-info-item-key{
+    color:#594848;
+    font-size:.9em;
+    font-weight:700;
+    letter-spacing:-.5px;
+    font-family:Arimo,Arial,Helvetica,lucida grande,sans-serif
+}
+.hb-movies-movie-box-info-item-value{
+    font-family:Arimo,Arial,Helvetica,lucida grande,sans-serif;
+    font-size:.85em;
+    color:#7b6e6e
+}
+.hb-note{
+    margin:1em 0 1.5em;
+    border-width:1px;
+    border-style:solid;
+    border-color:#cdcdcd;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px
+}
+.hb-note-inner{
+    padding:1em;
+    border-width:1px;
+    border-style:solid;
+    background-color:#e4e4e4;
+    border-color:#fafafa;
+    color:#333;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px
+}
+.hb-note-key{
+    color:#594848;
+    font-weight:700;
+    font-family:Arimo,Arial,Helvetica,lucida grande,sans-serif
+}
+.hb-note-value{
+    font-family:Arimo,Arial,Helvetica,lucida grande,sans-serif;
+    font-size:.85em;
+    color:#7b6e6e
+}
+.hb-clearfix:before,.hb-clearfix:after{
+    display:table;
+    content:" "
+}
+.hb-clearfix:after{
+    clear:both
+}
+.imdbRatingPlugin .votes{
+    display:block;
+    padding-left:0;
+    margin-left:0
+}
+.custom-scrollbar::-webkit-scrollbar{
+    width:10px
+}
+.custom-scrollbar::-webkit-scrollbar-track{
+    border-radius:10px
+}
+.custom-scrollbar::-webkit-scrollbar-thumb{
+    border-radius:10px;
+    box-shadow:0 0 6px rgba(0,0,0,.5)
+}
+.text-version{
+    padding:3px;
+    margin-right:5px;
+    font-size:.8em;
+    border-radius:3px;
+    font-family:'Architects Daughter',cursive
+}
